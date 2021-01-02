@@ -1,0 +1,3 @@
+comando para generar nuevos componentes 
+    ng generate component components/footer
+
